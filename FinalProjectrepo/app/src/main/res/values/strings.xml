@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final project</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="Show_password">Show Password</string>
+</resources>
